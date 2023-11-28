@@ -1,0 +1,5 @@
+item,SENTENCE,question,response_A,response_B,answer
+2001,"The driver waited until all the passengers were aboard before starting the engine.","Who waited for the passengers?","The driver.","The mechanic.",A
+2002,"When the journalists arrived, the editor removed the documemts from the table.","What was removed from the table?","Some documents.","An editor.",A
+2003,"The story began on Halloween, all the street lights had gone out, and there was no moon, so it was a dark and stary night.","Did the story say that the sky was clear?","Yes.","No.",neither
+2004,"The spectators' cheering grew increasingly loud as the swimmers approached the finist line.","What were the swimmers approaching?","The end of the race.","A fine line.",neither
