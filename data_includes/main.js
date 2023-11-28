@@ -1,6 +1,6 @@
 PennController.ResetPrefix(null); // Shorten command names (keep this line here))
 
-// DebugOff();   // Uncomment this line only when you are 100% done designing your experiment
+DebugOff();   // Uncomment this line only when you are 100% done designing your experiment
 
 // display a primer that can be clicked past by pressing the space bar
 const newPrimer = () => [
